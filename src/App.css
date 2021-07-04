@@ -1,0 +1,17 @@
+.oauth__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+pre {
+  padding: 0 40px 0 40px;
+  background-color: antiquewhite;
+  /* white-space: pre-line;
+  word-break: break-word; */
+}
+
+mark {
+  padding: 0 !important;
+}
